@@ -1,0 +1,4 @@
+Sitemap: https://ai4energy.github.io/computation4catalysis/sitemap.xml
+
+User-agent: *
+Disallow:

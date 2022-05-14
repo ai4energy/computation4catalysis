@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+    <loc>https://ai4energy.github.io/computation4catalysis/404/index.html</loc>
+    <lastmod>2022-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://ai4energy.github.io/computation4catalysis/cluster-installation/index.html</loc>
+    <lastmod>2022-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://ai4energy.github.io/computation4catalysis/index.html</loc>
+    <lastmod>2022-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://ai4energy.github.io/computation4catalysis/references/index.html</loc>
+    <lastmod>2022-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+</urlset>
